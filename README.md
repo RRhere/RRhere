@@ -91,5 +91,7 @@ hobbies: ["Sports", "Gaming", "Music", "Movies"]
       <td><img alt="Issues" src="https://img.shields.io/github/issues/RRhere/StudentDBMS?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/RRhere/StudentDBMS?style=flat-square&labelColor=343b41"/></td>
     </tr>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ftn5cdbalyr7g3h0v552zltsr&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=ftn5cdbalyr7g3h0v552zltsr&redirect=true)
+</tbody>
+</table>
+
   
