@@ -93,5 +93,7 @@ hobbies: ["Sports", "Gaming", "Music", "Movies"]
     </tr>
 </tbody>
 </table>
+<br/>
+[![Ragav's GitHub stats](https://github-readme-stats.vercel.app/api?username=RRhere)](https://github.com/RRhere/github-readme-stats)
 
   
