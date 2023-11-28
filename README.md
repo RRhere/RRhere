@@ -77,3 +77,17 @@ hobbies: ["Sports", "Gaming", "Music", "Movies"]
       <td><img alt="Issues" src="https://img.shields.io/github/issues/RRhere/Flask-Web-Application?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/RRhere/Flask-Web-Application?style=flat-square&labelColor=343b41"/></td>
     </tr>
+<tr>
+      <td><a href=https://github.com/RRhere/Two_Player_Game><b>Rock Paper Scissor Mini Game</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/RRhere/RockPaperScissorMiniGame?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/RRhere/RockPaperScissorMiniGame?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/RRhere/RockPaperScissorMiniGame?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/RRhere/RockPaperScissorMiniGame?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+<tr>
+      <td><a href=https://github.com/RRhere/Two_Player_Game><b>Student DBMS</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/RRhere/StudentDBMS?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/RRhere/StudentDBMS?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/RRhere/StudentDBMS?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/RRhere/StudentDBMS?style=flat-square&labelColor=343b41"/></td>
+    </tr>
