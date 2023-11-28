@@ -51,7 +51,7 @@ hobbies: ["Sports", "Gaming", "Music", "Movies"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="figma" width="45" height="45"/>   
 </p>
 <br/>
-<h3>Open source projects</h3>
+<h3>Open Source Projects</h3>
 <table>
   <thead align="center">
     <tr border: none;>
@@ -91,3 +91,7 @@ hobbies: ["Sports", "Gaming", "Music", "Movies"]
       <td><img alt="Issues" src="https://img.shields.io/github/issues/RRhere/StudentDBMS?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/RRhere/StudentDBMS?style=flat-square&labelColor=343b41"/></td>
     </tr>
+<h2> 📈 My GitHub History!</h2>
+
+![Snake animation](https://github.com/RRhere/RRhere/blob/output/github-contribution-grid-snake.svg)
+  
