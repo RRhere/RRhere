@@ -94,5 +94,5 @@ hobbies: ["Sports", "Gaming", "Music", "Movies"]
 </tbody>
 </table>
 <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=RRhere&theme=vision-friendly-dark"/>
+<img src="https://github-readme-stats.vercel.app/api?username=RRhere&theme=vision-friendly-dark&rank_icon=github"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie"/>
