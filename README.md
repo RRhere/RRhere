@@ -1,3 +1,4 @@
+<img src="https://profile-counter.glitch.me/{YOUR USER}/count.svg"/>
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=header&text=HI%20THERE😀&fontSize=90&animation=twinkling&reversal=true" />
 </p>
@@ -97,3 +98,5 @@ hobbies: ["Sports", "Gaming", "Music", "Movies"]
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=RRhere&theme=vision-friendly-dark&rank_icon=github"/>
 <br/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie"/>
+<br/>
+<img align="center" src="https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg"/>
