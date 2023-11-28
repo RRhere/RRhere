@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=RRhere&left_color=green&right_color=red"/>
+<img align="right" src="https://profile-counter.glitch.me/RRhere/count.svg"/>
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=header&text=HI%20THERE😀&fontSize=90&animation=twinkling&reversal=true" />
 </p>
