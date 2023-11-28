@@ -94,6 +94,7 @@ hobbies: ["Sports", "Gaming", "Music", "Movies"]
 </tbody>
 </table>
 <br/>
-[![Ragav's GitHub stats](https://github-readme-stats.vercel.app/api?username=RRhere&theme=dracula)](https://github.com/RRhere/github-readme-stats)
+<h3>My Github Stats</h3>
+<img src="https://github-readme-stats.vercel.app/api?username=RRhere&theme=dracula"/>
 
   
