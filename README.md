@@ -95,6 +95,6 @@ hobbies: ["Sports", "Gaming", "Music", "Movies"]
 </table>
 <br/>
 <h3>My Github Stats</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=RRhere&theme=dracula"/>
+<img src="https://github-readme-stats.vercel.app/api?username=RRhere&theme=vision-friendly-dark"/>
 
   
