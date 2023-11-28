@@ -1,4 +1,4 @@
-<img src="https://profile-counter.glitch.me/{YOUR USER}/count.svg"/>
+VISITED COUNT:<img src="https://profile-counter.glitch.me/{YOUR USER}/count.svg"/>
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=header&text=HI%20THERE😀&fontSize=90&animation=twinkling&reversal=true" />
 </p>
