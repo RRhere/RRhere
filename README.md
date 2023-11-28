@@ -65,8 +65,8 @@ hobbies: ["Sports", "Gaming", "Music", "Movies"]
   <tbody>
 <tr>
       <td><a href=https://github.com/RRhere/Two_Player_Game><b>Two Player Game</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/Two_Player_Game?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/Two_Player_Game?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/Two_Player_Game?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/Two_Player_Game?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/RRhere/Two_Player_Game?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/RRhere/Two_Player_Game?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/RRhere/Two_Player_Game?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/RRhere/Two_Player_Game?style=flat-square&labelColor=343b41"/></td>
     </tr>
