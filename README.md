@@ -24,7 +24,8 @@
 <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=header&text=HI%20THERE😀&fontSize=90&animation=twinkling&reversal=true" />
 </p>
 <br/>
-<h2> 👨🏻‍💻 ;A Little Bit About Me and My Interests</h2>
+<h2> 👨🏻‍💻 A Little Bit About Me and My Interests</h2>
+
 ```yaml
 name: Ragav 
 located: India
