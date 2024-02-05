@@ -17,12 +17,12 @@
 <a href="https://medium.com/@ragavradhesh">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973962-d05d145a-b6a0-4643-bd3d-5ac845679367.png"/>
 </a>
-<a href="https://twitter.com/ragavr_07">
+<!-- <a href="https://twitter.com/ragavr_07">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
 </a>
 <a href="https://www.instagram.com/ragav_.16/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
+</a> -->
 </p>
 <br/>
 <h2> 👨🏻‍💻 A Little Bit About Me and My Interests</h2>
@@ -72,7 +72,7 @@ hobbies: ["Sports", "Gaming", "Music", "Movies"]
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/RRhere/Two_Player_Game?style=flat-square&labelColor=343b41"/></td>
     </tr>
 <tr>
-      <td><a href=https://github.com/RRhere/Two_Player_Game><b>Flask Web Application</b></a></td>
+      <td><a href=https://github.com/RRhere/Two_Player_Game><b>Notes Web App</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/RRhere/Flask-Web-Application?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/RRhere/Flask-Web-Application?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/RRhere/Flask-Web-Application?style=flat-square&labelColor=343b41"/></td>
