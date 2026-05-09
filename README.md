@@ -1,101 +1,239 @@
-<img align="right" src="https://profile-counter.glitch.me/RRhere/count.svg"/>
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=header&text=HI%20THERE😀&fontSize=90&animation=twinkling&reversal=true" />
-</p>
+<div align="center">
+
+# Hey there, I'm Ragav 👋  
+### Full Stack Developer • Sitecore Developer • AI Enthusiast
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Sitecore+Developer;AI+%2B+Automation+Explorer;Cloud+%2B+DevOps+Learner;Always+Building+Something+Cool" />
+
 <br/>
-<p align="center">
-<img height=200 width=100% src="https://media4.giphy.com/media/cNFFHJ5Ki8KBJbS2Lt/giphy.gif?cid=ecf05e47myru87oywzf1tnzettmugh43evcvi5cq31irspe0&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
-</p>
-<br/>
-<h1 align="center">
-  Let's Connect!💬
-</h1>
-<p align="center">
-<a href="https://www.linkedin.com/in/ragavradhesh/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
-</a>
-<a href="https://medium.com/@ragavradhesh">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973962-d05d145a-b6a0-4643-bd3d-5ac845679367.png"/>
-</a>
-<!-- <a href="https://twitter.com/ragavr_07">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
-</a>
-<a href="https://www.instagram.com/ragav_.16/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a> -->
-</p>
-<br/>
-<h2> 👨🏻‍💻 A Little Bit About Me and My Interests</h2>
+
+<img src="https://komarev.com/ghpvc/?username=RRhere&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
+</div>
+
+---
+
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+# 🚀 About Me
 
 ```yaml
-name: Ragav 
-located: India
-education: Bachelor's in Electronics and Communication Engineering
-field_of interests:
-[
-"Web Development",
-"Game Development",
-"Artificial Intelligence",
-"Computer Networking"
-]
-hobbies: ["Sports", "Gaming", "Music", "Movies"]
+name: Ragav
+location: India
+role: Software Engineer
+
+specialization:
+  - Sitecore Development
+  - Full Stack Development
+  - AI Integrations
+  - Cloud & DevOps
+
+currently_working_on:
+  - GPT integrations with Sitecore
+  - Full-stack AI applications
+  - Azure deployments & CI/CD
+
+interests:
+  - Web Development
+  - Artificial Intelligence
+  - Automation
+  - Gaming
+
+fun_fact: "I debug faster after coffee ☕"
 ```
-<br/>
-<h2> 🚀 Some Tools I Have Used and Learned</h2>
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="figma" width="45" height="45"/>   
-</p>
-<br/>
-<h3>Open Source Projects</h3>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/ragavradhesh/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://medium.com/@ragavradhesh" target="_blank">
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+
+<a href="mailto:yourmail@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 💻 Tech Stack
+
+<div align="center">
+
+## 🚀 Languages & Frameworks
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,cs,html,css,bootstrap,react,nextjs,nodejs,dotnet,flask" />
+
+<br/><br/>
+
+## ☁️ Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=azure,docker,git,github,githubactions" />
+
+<br/><br/>
+
+## 🛢️ Database & Tools
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,figma,vscode,postman" />
+
+</div>
+
+---
+
+# 🧠 Currently Exploring
+
+- 🤖 AI + LLM Integrations  
+- ⚡ Automation Testing  
+- ☁️ Azure Cloud Services  
+- 🐳 Docker & CI/CD Pipelines  
+- 🧩 Advanced Sitecore Development  
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
 <table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
-    </tr>
-  </thead>
-  <tbody>
 <tr>
-      <td><a href=https://github.com/RRhere/Two_Player_Game><b>Two Player Game</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/RRhere/Two_Player_Game?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/RRhere/Two_Player_Game?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/RRhere/Two_Player_Game?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/RRhere/Two_Player_Game?style=flat-square&labelColor=343b41"/></td>
-    </tr>
+<td width="50%">
+
+### 🎮 Two Player Game
+Interactive multiplayer browser game built using HTML, CSS and JavaScript.
+
+🔗 https://github.com/RRhere/Two_Player_Game
+
+</td>
+
+<td width="50%">
+
+### 📝 Notes Web App
+A Flask-based notes management web application with authentication.
+
+🔗 https://github.com/RRhere/Flask-Web-Application
+
+</td>
+</tr>
+
 <tr>
-      <td><a href=https://github.com/RRhere/Two_Player_Game><b>Notes Web App</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/RRhere/Flask-Web-Application?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/RRhere/Flask-Web-Application?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/RRhere/Flask-Web-Application?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/RRhere/Flask-Web-Application?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-<tr>
-      <td><a href=https://github.com/RRhere/Two_Player_Game><b>Rock Paper Scissor Mini Game</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/RRhere/RockPaperScissorMiniGame?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/RRhere/RockPaperScissorMiniGame?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/RRhere/RockPaperScissorMiniGame?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/RRhere/RockPaperScissorMiniGame?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-<tr>
-      <td><a href=https://github.com/RRhere/Two_Player_Game><b>Student DBMS</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/RRhere/StudentDBMS?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/RRhere/StudentDBMS?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/RRhere/StudentDBMS?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/RRhere/StudentDBMS?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-</tbody>
+<td width="50%">
+
+### ✊ Rock Paper Scissor
+Classic mini-game with interactive UI and animations.
+
+🔗 https://github.com/RRhere/RockPaperScissorMiniGame
+
+</td>
+
+<td width="50%">
+
+### 🎓 Student DBMS
+Student database management system using Python and MySQL.
+
+🔗 https://github.com/RRhere/StudentDBMS
+
+</td>
+</tr>
 </table>
-<br/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=RRhere&theme=vision-friendly-dark&rank_icon=github"/>
-<br/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie"/>
-<br/>
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RRhere&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RRhere&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=RRhere&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=RRhere&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RRhere&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# ⚡ Fun Zone
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🎵 Spotify Playing
+
+<div align="center">
+
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31n3qj6gczx7vqlx5x3f5sqx5rmu&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=53b14f&bar_color_cover=false"/>
+
+</div>
+
+---
+
+# 👀 Visitor Counter
+
+<div align="center">
+
+<img src="https://profile-counter.glitch.me/RRhere/count.svg"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💡 Quote
+
+> “First, solve the problem. Then, write the code.”
+
+</div>
+
+---
+
+<div align="center">
+
+# ❤️ Thanks for Visiting My Profile
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+
+</div>
