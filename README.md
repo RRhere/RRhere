@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey there, I'm Ragav 👋  
+# Hey there, I'm Ragav 👋
 ### Full Stack Developer • Sitecore Developer • AI Enthusiast
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Sitecore+Developer;AI+%2B+Automation+Explorer;Cloud+%2B+DevOps+Learner;Always+Building+Something+Cool" />
@@ -13,9 +13,15 @@
 
 ---
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
 # 🚀 About Me
+
+<div align="center">
+
+<img width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+</div>
+
+<br/>
 
 ```yaml
 name: Ragav
@@ -90,11 +96,11 @@ fun_fact: "I debug faster after coffee ☕"
 
 # 🧠 Currently Exploring
 
-- 🤖 AI + LLM Integrations  
-- ⚡ Automation Testing  
-- ☁️ Azure Cloud Services  
-- 🐳 Docker & CI/CD Pipelines  
-- 🧩 Advanced Sitecore Development  
+- 🤖 AI + LLM Integrations
+- ⚡ Automation Testing
+- ☁️ Azure Cloud Services
+- 🐳 Docker & CI/CD Pipelines
+- 🧩 Advanced Sitecore Development
 
 ---
 
@@ -152,19 +158,17 @@ Student database management system using Python and MySQL.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RRhere&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RRhere&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RRhere&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RRhere&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
----
-
-# 🔥 GitHub Streak
+<br/>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=RRhere&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img src="https://streak-stats.demolab.com?user=RRhere&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -200,21 +204,11 @@ Student database management system using Python and MySQL.
 
 ---
 
-# 🎵 Spotify Playing
-
-<div align="center">
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31n3qj6gczx7vqlx5x3f5sqx5rmu&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=53b14f&bar_color_cover=false"/>
-
-</div>
-
----
-
 # 👀 Visitor Counter
 
 <div align="center">
 
-<img src="https://profile-counter.glitch.me/RRhere/count.svg"/>
+<img src="https://komarev.com/ghpvc/?username=RRhere&style=for-the-badge&color=blue"/>
 
 </div>
 
