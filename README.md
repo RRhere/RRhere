@@ -52,21 +52,21 @@ const ragav: Developer = {
 
 ### ⬡ Languages & Frameworks
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,cs,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,cs,html,css" />
 <br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,dotnet,flask,bootstrap&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,dotnet,flask,bootstrap" />
 
 <br/>
 
 ### ⬡ Cloud, DevOps & Tools
 
-<img src="https://skillicons.dev/icons?i=azure,docker,git,github,githubactions&theme=dark" />
+<img src="https://skillicons.dev/icons?i=azure,docker,git,github,githubactions" />
 
 <br/>
 
 ### ⬡ Databases & Design
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,figma,vscode,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,figma,vscode,postman" />
 
 </div>
 
@@ -127,9 +127,9 @@ const ragav: Developer = {
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=RRhere&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00f5ff&icon_color=00f5ff&text_color=ffffff&ring_color=00f5ff" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=RRhere&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 &nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RRhere&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=ffffff" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RRhere&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
