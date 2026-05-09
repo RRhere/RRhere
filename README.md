@@ -45,7 +45,6 @@ interests:
   - Automation
   - Gaming
 
-fun_fact: "I debug faster after coffee ☕"
 ```
 
 ---
@@ -62,7 +61,7 @@ fun_fact: "I debug faster after coffee ☕"
 <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
 
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:ragavradhesh@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -218,7 +217,7 @@ Student database management system using Python and MySQL.
 
 ## 💡 Quote
 
-> “First, solve the problem. Then, write the code.”
+> “The only thing we have to fear is fear itself.”
 
 </div>
 
