@@ -127,10 +127,6 @@ const ragav: Developer = {
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=RRhere&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-&nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RRhere&layout=compact&theme=tokyonight&hide_border=true" />
-
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=RRhere&theme=tokyonight&hide_border=true&background=0d1117&stroke=00f5ff&ring=00f5ff&fire=ff6b6b&currStreakLabel=00f5ff&sideLabels=00f5ff" />
